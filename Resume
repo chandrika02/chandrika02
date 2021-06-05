@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body bgcolor=green">
+<h1>RESUME</h1>
+<pre>
+<h2 style="color:orange">Name:chandrika
+Address-ganganagar-ext
+bangalore-32
+Contactno:8867347886
+Email id:. chandrikachandan886@gmail.com
+</h2>
+</pre>
+<hr>
+<h3>HOBBIES</h3>
+<h4 style="color :blue">playing games
+</h4>
+<hr>
+<h1>EDUCATION</h1>
+<h2 style="color:blue">Vidyavahini English High school
+<br>
+Vidyavahini college
+</h2>
+<hr>
+<h1>OTHER SKILLS</h1>
+<h2 style="color:orange">java
+<br>
+html
+<br>
+c programming
+<br>
+c++</h2>
+<br>
+</h2>
+</body>
+</html>
